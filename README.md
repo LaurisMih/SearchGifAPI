@@ -1,7 +1,11 @@
 # SearchGifAPI <br>
  This task is created to search gifs using GIPHY API. <br>
- # Ho to start app <br>
- 1) Clone or download ZIP repository. <br>
+ # How to start app <br>
+ 1) Clone or download ZIP repository. If VS Code show that some packages are missing press "Get packages" <br>
+ 
+ ![image](https://user-images.githubusercontent.com/108615436/204119454-40174556-0d07-43b6-96dd-dc07f1daaadb.png)
+
+ 
  2) Create your GIPHY API key (here) [https://developers.giphy.com/docs/api] <br>
  3) Insert your API key in _key variable in home_page.dart and home_page_test.dart files <br>
 

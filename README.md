@@ -1,5 +1,5 @@
 # SearchGifAPI <br>
- This task is created to search gifs using GIPHY API. <br>
+ This task is created to search gifs using GIPHY API. Created on Flutter <br>
  # How to start app <br>
 1) Clone or download ZIP repository. If VS Code show that some packages are missing press "Get packages" <br>
  

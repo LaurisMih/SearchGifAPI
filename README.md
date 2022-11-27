@@ -24,7 +24,7 @@
   ![image](https://user-images.githubusercontent.com/108615436/204119362-019d8cb3-e822-494b-bb49-b1f742326f9f.png) <br>
   
 6) Press Ctrl+F5 to run app without debugging or in left upper corner Run > Run Without Debugging <br>
-7) Search what gif you are looking, choose the best gif and enjoy it <br>
+7) Search what gif you are looking for, choose the best gif and enjoy it <br>
 
 # Example 
  ![image](https://user-images.githubusercontent.com/108615436/204119327-678e85aa-6313-4826-a2ec-46a970e60b08.png)

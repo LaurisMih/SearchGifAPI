@@ -6,7 +6,7 @@
  ![image](https://user-images.githubusercontent.com/108615436/204119454-40174556-0d07-43b6-96dd-dc07f1daaadb.png)
 
  
-2) Create your Giphy API key (here) [https://developers.giphy.com/docs/api] <br>
+2) Create your Giphy API key [here] (https://developers.giphy.com/docs/api) <br>
 3) Insert your API key in _key variable in home_page.dart and home_page_test.dart files <br>
 
  ![image](https://user-images.githubusercontent.com/108615436/204119071-30e5fb22-cb9a-4570-9b13-e6f5062d96f1.png)<br>
